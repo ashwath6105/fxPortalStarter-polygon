@@ -39,10 +39,6 @@ Use this contract address in your getBalance script's tokenAddress.
 
 Finally, run npx hardhat run scripts/getBalance.js --network mumbai to view your new Polygon balance on the Mumbai network.
 
-# License
-
-This project is licensed under MIT
-
 
 # Author
 
