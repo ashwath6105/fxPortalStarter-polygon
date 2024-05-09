@@ -10,7 +10,7 @@ contract Lamborghini is ERC721A{
 
     uint256 public max_assets = 5;
 
-    string baseUrl = "https://gateway.pinata.cloud/ipfs/QmSEMWZQC9EJ5E73BWTSN5BZJzM9kii5hyYCmMUYR7Ai15";
+    string baseUrl = "https://gateway.pinata.cloud/ipfs/QmXtvZ4BFRTnvYvwWdEWHiVvpY4YjWQdykpFHkv7MgLDnU";
 
     
     string public prompt =
