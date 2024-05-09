@@ -1,5 +1,5 @@
 const hre = require("hardhat");
-const tokenContractJSON = require("../artifacts/contracts/astronaut.sol/astronaut.json");
+const tokenContractJSON = require("artifacts/contracts/Lambo.sol/Lamborghini.json");
 
 const tokenAddress = "0x39BBe808695a37737A13E6834A06beD31f171E94";
 const tokenABI = tokenContractJSON.abi;
